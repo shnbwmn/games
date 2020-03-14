@@ -1,7 +1,7 @@
 # games
 List of awesome games.
 
-###RTS
+### RTS
 
 * https://www.projectceleste.com
 
