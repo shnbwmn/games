@@ -1,4 +1,6 @@
-# games
+
+# Games
+
 List of awesome games.
 
 ### Strategy
