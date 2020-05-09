@@ -3,6 +3,8 @@
 
 List of awesome games.
 
+[https://worldoftanks.eu/](https://worldoftanks.eu/)
+
 ### Strategy
 
 * https://www.projectceleste.com
@@ -14,5 +16,5 @@ List of awesome games.
 * [https://github.com/yvt/openspades](https://github.com/yvt/openspades)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjI1MjU2OF19
+eyJoaXN0b3J5IjpbODM0NTAyNzg1LC01NzYyNTI1NjhdfQ==
 -->
